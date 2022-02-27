@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sofien113t
 - 👀 I’m interested in Langage C
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning grafic design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me information
 
